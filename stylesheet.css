@@ -54,7 +54,7 @@ a[href^="mailto:"]:hover {
 
 @media only screen and (max-width: 320px) {
 
-   h1 { font-size: 2em; 
+   h1 { font-size: 1.6em; 
 	   	color: #31BBD7;
 }
 
